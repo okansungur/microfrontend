@@ -1,1 +1,1 @@
-# Microfrontend Sample
+# Microfrontends with React
